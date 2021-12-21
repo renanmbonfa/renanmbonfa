@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on Machine Learning and IA Projects
 
-- 💬 Ask me about coding and engineering
+- 💬 Ask me about Coding and Engineering
 
 - 📫 How to reach me: www.linkedin.com/in/renan-bonfá-a63600147
 
