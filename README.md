@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Data Science Projects
+- 🔭 I’m currently working on CPFL
 
 - 🌱 I’m currently learning R, SQL and Python
 
