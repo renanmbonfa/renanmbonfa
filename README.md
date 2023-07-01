@@ -2,13 +2,13 @@
 
 
 
-- 🔭 I’m currently working on CPFL
+- 🔭 I’m currently working on CPFL/State Grid
 
-- 🌱 I’m currently learning Spark, SQL and Python
+- 🌱 I’m currently working with Spark, SQL and Python
 
 - 👯 I’m looking to collaborate on Machine Learning and IA Projects
 
-- 💬 Ask me about Coding and Engineering
+- 💬 Ask me about Coding and Machine Learning
 
 - 📫 How to reach me: www.linkedin.com/in/renan-bonfá-a63600147
 
