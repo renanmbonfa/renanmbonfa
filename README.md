@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on CPFL/State Grid
+- 🔭 I’m currently working at BRP
 
 - 🌱 I’m currently working with Spark, SQL and Python
 
